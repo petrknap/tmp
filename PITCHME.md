@@ -1,11 +1,11 @@
 ---
 
-# Slide 1
+# Petr Knap
 
-Text 1
+Software engineer with experience & master degree
 
 ---
 
-# Slide 2
+## Education
 
 Text 2
